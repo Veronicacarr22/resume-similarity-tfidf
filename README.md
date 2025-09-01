@@ -23,7 +23,7 @@ Built with **Python, scikit-learn, pandas, matplotlib, and NLTK**, the project s
 You can run this project directly in Google Colab without installing anything locally.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/Veronicacarr22/resume-similarity-tfidf/blob/notebooks/ResumesSimilarity.ipynb
+https://colab.research.google.com/github/Veronicacarr22/resume-similarity-tfidf/blob/main/notebooks/ResumeSimilarity.ipynb)
 
 ### Steps
 
