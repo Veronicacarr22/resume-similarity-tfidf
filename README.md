@@ -86,6 +86,6 @@ This project demonstrates **data-driven document analysis** — applying natural
 - MBA + M.S. in Computer Science/Data Analytics (in progress)  
 - Based in Illinois, USA  
 - Experienced in project coordination, operations management, and data-driven solutions  
-- [LinkedIn](https://www.linkedin.com/in/veronicacarr/) | [GitHub](https://github.com/Veronicacarr22)
+- [LinkedIn]([https://www.linkedin.com/in/veronicacarr/](https://www.linkedin.com/in/veronica-carr-613931214/)) | [GitHub](https://github.com/Veronicacarr22)
 
 ---
