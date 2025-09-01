@@ -50,8 +50,8 @@ https://colab.research.google.com/github/Veronicacarr22/resume-similarity-tfidf/
 
 After processing 2,484 resumes with TF-IDF and cosine similarity:
 
-- [**DocSims.csv**](./reports/tables/DocSims.csv)
-- [**TopMatches_MyResume.csv**](./reports/tables/TopMatches_MyResume.csv) 
+- [**DocSims (1).csv**](./reports/tables/DocSims%20%281%29.csv)
+- [**TopMatches_MyResume (1).csv**](./reports/tables/TopMatches_MyResume%20%281%29.csv)
 - [**resume_similarity.png**](reports/figures/resume_similarity.png): Example visualization of top matches.  
 
 ### Example Visualization
