@@ -50,7 +50,7 @@ https://colab.research.google.com/github/Veronicacarr22/resume-similarity-tfidf/
 
 After processing 2,484 resumes with TF-IDF and cosine similarity:
 
-- [**DocSims.csv**](reports/tables/DocSims (1).csv): Top-5 most similar resumes for every document.  
+- [**DocSims.csv**] (reports/tables/DocSims (1).csv): Top-5 most similar resumes for every document.  
 - [**TopMatches_MyResume.csv**](reports/tables/TopMatches_MyResume.csv): Closest matches specifically to `MyResume.pdf`.  
 - [**resume_similarity.png**](reports/figures/resume_similarity.png): Example visualization of top matches.  
 
